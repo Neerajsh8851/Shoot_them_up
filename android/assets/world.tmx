@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.6.0" orientation="orthogonal" renderorder="right-down" width="240" height="13" tilewidth="40" tileheight="40" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="world" tilewidth="40" tileheight="40" tilecount="4" columns="6" objectalignment="bottomleft">
+  <grid orientation="orthogonal" width="16" height="16"/>
+  <transformations hflip="1" vflip="1" rotate="1" preferuntransformed="1"/>
+  <tile id="0">
+   <image width="40" height="40" source="1.png"/>
+  </tile>
+  <tile id="1">
+   <image width="40" height="40" source="2.png"/>
+  </tile>
+  <tile id="2">
+   <image width="40" height="40" source="3.png"/>
+  </tile>
+  <tile id="3">
+   <image width="40" height="40" source="4.png"/>
+  </tile>
+ </tileset>
+ <layer id="1" name="Tile Layer 1" width="240" height="13" offsetx="10" offsety="2">
+  <data encoding="base64" compression="zlib">
+   eJztmmEOgjAMRovjYB6Fo3AUjuJRPIoz2RKCG1hY2218P140oF1L+yIujEQ0dsqjQqyvSY8MAes8AAB84C8A7QJ/ATiHC1jmAH/7Bf89ZXFk7zD8rZ+ze0Hwtww5R/2x9xqL3OBv/ZTey+1hf1gr973f2K2/Fg7DX/7c+D4t1nlcraF1fx3J378erQF/2+PrrrS/Gmu0jrS/q9gTx19th+Evu6+ibsX48Ne0x2t3I6nPJf3Vcngg+Jvoya47km6F2HFuRNbg0sO9NrMH8LcRUnMZ/czN7dH5s/iYr8AUXpeSdV3I64d/npHUfg6zRIyNv9MVfyXrj9zd39RsGvP0vZjD+7nFujRyKFEzw9/sd/b81bjWd/f3A95Nbho=
+  </data>
+ </layer>
+</map>
